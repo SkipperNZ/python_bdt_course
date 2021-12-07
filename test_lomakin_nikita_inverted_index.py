@@ -3,11 +3,12 @@
 '''
 
 jojo = 1337
+reference = "next test commit"
 
 import io
 import pytest
 import json
-from argparse import Namespace
+from argparse import Namespacegit
 
 from task_lomakin_nikita_inverted_index_lib import InvertedIndex, load_documents, \
     build_inverted_index, DEFAULT_INVERTED_INDEX_STORE_PATH, callback_query, callback_build, EncodedFileType, \
