@@ -53,13 +53,6 @@ def some_trick_to_make_perfect_mark():
 
 
 
-
-
-
-
-
-
-
 class InvertedIndex:
     """this is class Inverted index """
 
